@@ -1,1 +1,1 @@
-# Multivariate-Data-mining
+# Multivariate/Data-mining
